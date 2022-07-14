@@ -35,6 +35,7 @@ const config = {
   resolve: {
     extensions: ['.ts', '.js']
   },
+  devtool: 'inline-source-map',
 };
 
 module.exports = config;
