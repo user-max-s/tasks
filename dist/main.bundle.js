@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktasks=self.webpackChunktasks||[]).push([[179],{552:()=>{console.log("import work"),console.log("test webpack bundle"),new class{constructor(s){this.name=s}logName(){console.log("name",name)}}("Tusik").logName(),console.log(!0)}},s=>{s(s.s=552)}]);
